@@ -87,6 +87,7 @@ namespace ReactNative.Shell
             {
                 new ReactSimpleTextViewManager(),
                 new ReactCalendarDatePickerManager(),
+                new ReactDatePickerManager(),
                 new ReactFlipViewManager(),
                 new ReactImageManager(),
                 new ReactModalViewManager(),
